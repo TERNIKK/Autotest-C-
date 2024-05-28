@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "AI",
+            "description": "List of AI HABR",
+            "usage": 4,
+            "entries": [
+                {
+                    "value": "AI",
+                    "category": "AI",
+                    "description": "AI"
+                },
+                {
+                    "value": "ИИ",
+                    "category": "AI",
+                    "description": "AI"
+                },
+		{
+                    "value": "Иcкусственный интеллект",
+                    "category": "AI",
+                    "description": "AI"
+                },
+            ]
+        }
+    ]
+}
